@@ -24,3 +24,5 @@ puts "This is puts again"
 
 print "This is print"
 print "This is print again"
+
+puts "Hello Word, Welcome BENI"
