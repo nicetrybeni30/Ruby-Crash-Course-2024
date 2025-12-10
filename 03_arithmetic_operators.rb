@@ -36,3 +36,17 @@ d = 4
 
 puts c / d
 # Output: 2.25
+# 
+
+#arithmetic mdas lang real quick
+#
+
+q = 1
+w = 2 
+e = 3 
+r = 4
+
+puts "Addition: ", q + w
+puts "Subtraction: ", e - r
+puts "Multiplication: ", w * r
+puts "Divide: ", q % e

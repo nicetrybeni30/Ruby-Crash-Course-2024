@@ -26,3 +26,4 @@ print "This is print"
 print "This is print again"
 
 puts "Hello Word, Welcome BENI"
+puts "Day 2: Beni"

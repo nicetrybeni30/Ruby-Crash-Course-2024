@@ -15,3 +15,16 @@ puts my_num
 puts my_boolean
 puts my_string
 puts my_float
+
+
+# Test on data types memorization
+
+test_num = 25 # this is a integer
+test_boolean = false
+test_string = "BENI"
+test_float = 3.30
+
+puts test_num
+puts test_boolean
+puts test_string
+puts test_float
