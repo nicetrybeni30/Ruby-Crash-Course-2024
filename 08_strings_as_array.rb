@@ -19,3 +19,11 @@ puts new_string.split(" ")
 
 puts new_string.gsub('a', 'u') # replaces all valid characters
 puts new_string.sub('a', 'u') # replaces the first valid character
+
+
+test_string = "BENI"
+
+puts test_string[0] #B
+puts test_string[3] #I
+
+#etong split gsub ay mga built in functions

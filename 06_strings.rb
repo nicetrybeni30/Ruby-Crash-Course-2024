@@ -36,3 +36,8 @@ strings easily where into other programming
 languages creating multiline strings
 requires a lot of efforts
 RANDOM_IDENTIFIER
+
+puts <<RANDOM_IDENTIFIER
+testing lang ng multiline
+na string
+RANDOM_IDENTIFIER

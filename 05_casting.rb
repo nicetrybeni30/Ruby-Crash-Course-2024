@@ -27,3 +27,9 @@ puts "999".to_c
 
 # Example
 puts 100 + "20+1i".to_c
+
+
+#casting is used when we try to convert stuff into another data types
+
+puts 30.to_s
+puts "30".to_i
