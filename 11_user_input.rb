@@ -27,3 +27,10 @@ b = gets.chomp
 
 puts a + b            # "6" + "5" = "65"
 puts a.to_i + b.to_i  # 6 + 5 = 65
+
+#sample print
+#
+puts "Enter your name: "
+test_name = gets.chomp
+
+print "Hello, ", test_name

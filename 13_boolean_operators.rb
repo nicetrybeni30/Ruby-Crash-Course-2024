@@ -34,3 +34,5 @@ puts or_test #false
 puts "\n\nResults of NOT"
 
 puts !true
+
+#basta boolean if else lang yan 

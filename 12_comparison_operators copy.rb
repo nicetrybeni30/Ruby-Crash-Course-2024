@@ -21,3 +21,9 @@ puts a <= c # false
 puts b >= c # true
 puts b == c # true
 puts a != c # true
+
+#comparison greater than or etc.
+
+asd = 30
+fgh = 40
+puts asd > fgh
